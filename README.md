@@ -1,4 +1,4 @@
-<img width="397" alt="image" src="https://github.com/SeventhFret/SeventhFret/assets/105922960/622ed709-eb09-415e-9df6-a348b88a9fea"># 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on [Kanbanio](https://gitlab.com/SeventhFret/kanban-app) project<br>👯 I’m looking to collaborate on Python projects<br>🤝 I’m looking for help with learning AI<br>🌱 I’m currently learning Python, Web Development and AI technologies<br>⚡ Coffee is my breakfast
 
 
