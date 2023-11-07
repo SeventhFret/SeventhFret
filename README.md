@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Kanbanio](https://gitlab.com/SeventhFret/kanban-app) project<br>👯 I’m looking to collaborate on Python projects<br>🤝 I’m looking for help with learning AI<br>🌱 I’m currently learning Python, Web Development and AI technologies<br>⚡ Coffee is my breakfast
+🔭 I’m currently working on Triangulum project<br>👯 I’m looking to collaborate on Python projects<br>🤝 I’m looking for help with learning AI<br>🌱 I’m currently learning Python, Web Development and AI technologies<br>⚡ Coffee is my breakfast
 
 
 ## 🌐 Socials:
