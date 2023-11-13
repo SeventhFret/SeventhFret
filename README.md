@@ -1,5 +1,8 @@
 # 💫 About Me:
-> Self-discipline can help you to reach your own goals, doesn’t matter which way - you could reach it and all depends on you.<br><br>💫 Currently learning React.js<br>⚙️ Working on [Kanbanio](https://gitlab.com/SeventhFret/kanban-app) project<br>
+> "Self-discipline can help you to reach your own goals, doesn’t matter which way - you could reach it and all depends on you."
+
+💫 Currently learning React.js<br>
+⚙️ Working on [Kanbanio](https://gitlab.com/SeventhFret/kanban-app) project<br>
 
 
 ## 🌐 Socials:
